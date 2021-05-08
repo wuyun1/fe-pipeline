@@ -33,7 +33,7 @@
     "rxjs": "^6.5.3",
     "simple-git": "^1.126.0",
     "sqlite3": "^4.1.0",
-    "typeorm": "^0.2.20",
+    "typeorm": "^0.2.25",
     "yaml": "^1.7.2"
   },
   "devDependencies": {
